@@ -7,6 +7,7 @@ public class Category{
 	public void setUsertype(Usertype usertype){
 		this.usertype = usertype;
 	}
+	
 
 	public Usertype getUsertype(){
 		return usertype;
