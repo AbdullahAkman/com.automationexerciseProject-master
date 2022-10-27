@@ -1,5 +1,6 @@
 @smoke  @regression    @paralel
 
+
 Feature: US02 Automation Exercise 02
 @tag   @smoke
   Scenario: US02 Login User with correct email and password
